@@ -1,4 +1,4 @@
-import { documentsOneResponse, documentsTwoResponse } from './../components/mock';
+import { documentsOneResponse, documentsTwoResponse } from './mock';
 import { Document } from '../types/document';
 
 const baseURL = 'https://test-backend-url.com';
